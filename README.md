@@ -1,4 +1,4 @@
-### It is a nice looking Heart Beat Animation (the heart is beating) made for my blog.
+### It is a nice looking Heart Beat Animation (the heart is beating) made for my instagram.
 
 ### Technologies Used: HTML & CSS only.
 
