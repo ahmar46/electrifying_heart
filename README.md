@@ -1,4 +1,4 @@
-### It isNice looking Heart Beat Animation made for my blog.
+### It is a Nice looking Heart Beat Animation made for my blog.
 
 ### Technologies Used: HTML & CSS only.
 
